@@ -3,12 +3,12 @@ Here you will find the following files:
 
 ___Data___:
 
-An excel file containing the annotated dataset: Data_video_titles.xlsx
+Data_video_titles.xlsx: the annotated dataset
 
-An image containing explanations of each column (also available in the paper): column_descriptions.JPG
+column_descriptions.JPG: explanations of each column
 
 __Analysis__:
 
-One .R file containing the code for the exploratory analysis: exploratory_analysis.R
+exploratory_analysis.R: code for exploratory analysis
 
-And another containing the code for the wordclouds: wordcloud.R
+wordcloud.R: code for th wordclouds
