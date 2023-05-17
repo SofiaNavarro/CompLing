@@ -11,4 +11,4 @@ __Analysis__:
 
 exploratory_analysis.R: code for exploratory analysis
 
-wordcloud.R: code for th wordclouds
+wordcloud.R: code for the wordclouds
